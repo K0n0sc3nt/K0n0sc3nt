@@ -1,16 +1,13 @@
-## Hi there 👋
+![k0n0sc3nt](https://github.com/user-attachments/assets/11b03542-6070-4e44-b5a4-5c4a7ccfdf05)
+<h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello! I'm k0n0sc3nt, also known as <a href="https://k0n0sc3nt.github.io/">Net Commander</a>!</strong></h1>
+ <h3><ul align="left">
+<li>Security specialist and explorer of new frontiers with 40 light years of experience in advanced protection technology.</li>
+<li>Passionate about sharing knowledge and adapting to the unique challenges of each environment.</li>
+<li>My goal is to teach complex techniques in a simple and accessible way for everyone.</li>
+</ul></h3>
 
-<!--
-**K0n0sc3nt/K0n0sc3nt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a target="_blank" href="https://k0n0sc3nt.github.io/"><img src="https://img.shields.io/badge/-Website-red?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website Badge"></a>
+<a target="_blank" href="mailto:k0n0sc3nt@proton.me"><img src="https://img.shields.io/badge/Email-ProtonMail-7B1FA2?style=for-the-badge&logo=Protonmail&logoColor=white" alt="ProtonMail Badge">
+</a>
