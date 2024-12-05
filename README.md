@@ -1,7 +1,7 @@
 ![k0n0sc3nt](https://github.com/user-attachments/assets/11b03542-6070-4e44-b5a4-5c4a7ccfdf05)
 <h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello! I'm k0n0sc3nt, also known as <a href="https://k0n0sc3nt.github.io/">Net Commander</a>!</strong></h1>
  <h3><ul align="left">
-<li>Security specialist and explorer of new frontiers with 40 light years of experience in advanced protection technology.</li>
+<li>Explorer of new frontiers with 40 light years of experience in advanced protection technology.</li>
 <li>Passionate about sharing knowledge and adapting to the unique challenges of each environment.</li>
 <li>My goal is to teach complex techniques in a simple and accessible way for everyone.</li>
 </ul></h3>
